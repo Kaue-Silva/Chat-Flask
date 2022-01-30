@@ -9,4 +9,5 @@ Tenho como objetivo um site funcional de bate papo utilizando Flask
 - Organização seguindo um padrão semelhante ao Django
 - Criar templates utilizando Bootstrap
 - Montar uma estrutura funcional para o Banco de Dados
+- Usar Autenticação JWT
 - Criar um Bate Papo funcional
